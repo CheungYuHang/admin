@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+em {
+  font-style: normal;
+}
+li {
+  list-style: none;
+}
+img {
+  border: 0;
+  vertical-align: middle;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+p {
+  word-wrap: break-word;
+}
+input,
+button {
+  outline: 0;
+  vertical-align: middle;
+}
+html,
+body,
+#app,
+.container {
+  height: 100%;
+  width: 100%;
+}
+::-webkit-scrollbar {
+  // 滚动条整体样式
+  width: 2px;
+  // 高宽分别对应横竖滚动条的尺寸
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  // 滚动条里面小方块
+  border-radius: 6px;
+  background: #0c542a;
+}
+
+::-webkit-scrollbar-track {
+  // 滚动条里面轨道
+  border-radius: 6px;
+  background: #ededed;
+}
+// 导航菜单折叠样式
+.el-menu--vertical {
+  .iconfont {
+    margin-right: 5px;
+    color: #fff;
+  }
+  .is-active .iconfont {
+    color: #ffd04b;
+  }
+}
+// 导航菜单右侧箭头
+.el-submenu__icon-arrow {
+  color: #fff !important;
+}
+// 卡片样式
+.box-card,
+.el-card__body {
+  box-sizing: border-box;
+  height: 100%;
+}
+.box-card {
+  overflow-y: auto;
+}
+// 分页的卡片样式
+.pagination {
+  margin-bottom: 10px;
+  height: calc(100% - 40px);
+}

@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "774382",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "887801",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1066954",
+      "name": "密码",
+      "font_class": "Password",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "1915213",
+      "name": "首页",
+      "font_class": "icon-test",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "6204098",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14294791",
+      "name": "项目",
+      "font_class": "xiangmu",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "15660329",
+      "name": "网站管理",
+      "font_class": "wangzhanguanli",
+      "unicode": "eabb",
+      "unicode_decimal": 60091
+    },
+    {
+      "icon_id": "16080009",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "18367953",
+      "name": "菜单  展开",
+      "font_class": "caidanzhankai",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "18367955",
+      "name": "菜单 收起",
+      "font_class": "caidanshouqi",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "18379488",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "19545468",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "19818693",
+      "name": "新闻管理",
+      "font_class": "xinwenguanli",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
